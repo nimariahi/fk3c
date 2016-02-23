@@ -15,16 +15,16 @@ Feedback, suggestions, and bug reports are most welcome: nimariahizrh@gmail.com
 
 Important files:
 
-	SynthDat.m: A trace gather data structure with synthetic data for testing.
-	FK3C_Fourier.m: MATLAB script that computes short-time spectrograms from a trace gather data structure.
-	FK3C_FK.m: MATLAB script that computes 3C wavenumber spectra and makes some simple visualization.
+- SynthDat.m: A trace gather data structure with synthetic data for testing.
+- FK3C_Fourier.m: MATLAB script that computes short-time spectrograms from a trace gather data structure.
+- FK3C_FK.m: MATLAB script that computes 3C wavenumber spectra and makes some simple visualization.
 	
-	FK3C directory: the package functions
-	
-		compFK3C: computes 3C wavenumber spectra from a time-series of SDM matrices.
-		compSDM: computes SDM matrices from a batch of spectrograms.
-		polpar2cmplx: converts 'human-readable' parameterization of polarization ellipse to complex 3-vector.
-		extrema/extrema2: find extrema in vectors and matrices (downloaded from the web, author Carlos Adrin Vargas Aguilera, Uni de Guadalajara, 2005)
+FK3C directory: the package functions
+
+  - compFK3C: computes 3C wavenumber spectra from a time-series of SDM matrices.
+  - compSDM: computes SDM matrices from a batch of spectrograms.
+  - polpar2cmplx: converts 'human-readable' parameterization of polarization ellipse to complex 3-vector.
+  - extrema/extrema2: find extrema in vectors and matrices (downloaded from the web, author Carlos Adrin Vargas Aguilera, Uni de Guadalajara, 2005)
 		
 
 	
