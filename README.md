@@ -1,7 +1,14 @@
-# fk3c - three-component FK analysis in MATLAB
+# fk3c - Three-component FK analysis in MATLAB
 
 Author: Nima Riahi
 Date: 2014-JUL-14
+
+
+## DESCRIPTION
+
+Small MATLAB package to perfrom three-component array processing. The code was written with seismic data in mind, but should work for any kind of 2D array where each location has three orthogonal motion sensors.
+
+Feedback, suggestions, and bug reports are most welcome: nimariahizrh@gmail.com
 
 
 ## CONTENTS
@@ -23,7 +30,7 @@ Important files:
 	
 ## GETTING STARTED
 
-Essentially, you can run the two scripts FK3C_Fourier and FK3C_FK sequentially to test drive the package. Those scripts are also a useful starting point for your own script development and modifications. To get started:
+You can run the two scripts FK3C_Fourier and FK3C_FK sequentially to test drive the package. Those scripts are also a useful starting point for your own script development and modifications. To get started:
 
 Copy the package content into a working directory of your choice (refered to as ./). Add the package functions to your path:
 
