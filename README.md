@@ -1,7 +1,10 @@
 # fk3c - Three-component FK analysis in MATLAB
 
 Author: Nima Riahi
+
 Date: 2014-JUL-14
+
+This code is released under the GNU GENERAL PUBLIC LICENSE version 2.1 (see LICENCE file).
 
 
 ## DESCRIPTION
